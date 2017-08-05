@@ -1,0 +1,264 @@
+E:\SIS\Sis\Sis\bin\Debug\Sis.exe
+E:\SIS\Sis\Sis\bin\Debug\Sis.pdb
+E:\SIS\Sis\Sis\obj\Debug\ResolveAssemblyReference.cache
+E:\SIS\Sis\Sis\obj\Debug\Sis.Properties.Resources.resources
+E:\SIS\Sis\Sis\obj\Debug\Sis.csproj.GenerateResource.Cache
+E:\SIS\Sis\Sis\obj\Debug\Sis.exe
+E:\SIS\Sis\Sis\obj\Debug\Sis.pdb
+E:\SIS\SIS\Sis\obj\Debug\Sis.Login.resources
+E:\SIS\SIS\Sis\bin\Debug\Sis.exe.config
+E:\SIS\SIS\Sis\obj\Debug\Sis.Home.resources
+E:\SIS\SIS\Sis\obj\Debug\Sis.admin_panel.resources
+E:\SIS\SIS\Sis\obj\Debug\Sis.stud_add.resources
+E:\SIS\SIS\Sis\bin\Debug\Database1.mdf
+E:\SIS\SIS\Sis\bin\Debug\Database1_log.ldf
+F:\SIS\SIS\Sis\bin\Debug\Sis.exe.config
+F:\SIS\SIS\Sis\obj\Debug\Sis.exe
+F:\SIS\SIS\Sis\obj\Debug\Sis.pdb
+F:\SIS\SIS\Sis\bin\Debug\Sis.exe
+F:\SIS\SIS\Sis\bin\Debug\Sis.pdb
+F:\SIS\SIS\Sis\obj\Debug\ResolveAssemblyReference.cache
+F:\SIS\SIS\Sis\obj\Debug\Sis.admin_panel.resources
+F:\SIS\SIS\Sis\obj\Debug\Sis.Home.resources
+F:\SIS\SIS\Sis\obj\Debug\Sis.Login.resources
+F:\SIS\SIS\Sis\obj\Debug\Sis.Properties.Resources.resources
+F:\SIS\SIS\Sis\obj\Debug\Sis.csproj.GenerateResource.Cache
+F:\SIS\SIS\Sis\obj\Debug\Sis.stud_view.resources
+F:\SIS\SIS\Sis\obj\Debug\Sis.stud_add_report.resources
+F:\Project with Read Me\SIS\SIS\Sis\bin\Debug\Sis.exe.config
+F:\Project with Read Me\SIS\SIS\Sis\obj\Debug\Sis.exe
+F:\Project with Read Me\SIS\SIS\Sis\obj\Debug\Sis.pdb
+F:\Project with Read Me\SIS\SIS\Sis\bin\Debug\Sis.exe
+F:\Project with Read Me\SIS\SIS\Sis\bin\Debug\Sis.pdb
+F:\Project with Read Me\SIS\SIS\Sis\obj\Debug\ResolveAssemblyReference.cache
+F:\Project with Read Me\SIS\SIS\Sis\obj\Debug\Sis.admin_panel.resources
+F:\Project with Read Me\SIS\SIS\Sis\obj\Debug\Sis.stud_view.resources
+F:\Project with Read Me\SIS\SIS\Sis\obj\Debug\Sis.Home.resources
+F:\Project with Read Me\SIS\SIS\Sis\obj\Debug\Sis.Login.resources
+F:\Project with Read Me\SIS\SIS\Sis\obj\Debug\Sis.Properties.Resources.resources
+F:\Project with Read Me\SIS\SIS\Sis\obj\Debug\Sis.stud_add_report.resources
+F:\Project with Read Me\SIS\SIS\Sis\obj\Debug\Sis.csproj.GenerateResource.Cache
+F:\Projects\SIS\SIS\Sis\bin\Debug\Sis.exe.config
+F:\Projects\SIS\SIS\Sis\obj\Debug\Sis.exe
+F:\Projects\SIS\SIS\Sis\obj\Debug\Sis.pdb
+F:\Projects\SIS\SIS\Sis\bin\Debug\Sis.exe
+F:\Projects\SIS\SIS\Sis\bin\Debug\Sis.pdb
+F:\Projects\SIS\SIS\Sis\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\SIS\SIS\Sis\obj\Debug\Sis.admin_panel.resources
+F:\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_view.resources
+F:\Projects\SIS\SIS\Sis\obj\Debug\Sis.Home.resources
+F:\Projects\SIS\SIS\Sis\obj\Debug\Sis.Login.resources
+F:\Projects\SIS\SIS\Sis\obj\Debug\Sis.Properties.Resources.resources
+F:\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_add_report.resources
+F:\Projects\SIS\SIS\Sis\obj\Debug\Sis.csproj.GenerateResource.Cache
+F:\Projects\SIS\SIS\Sis\obj\Debug\Sis.Course.resources
+F:\Projects\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.exe.config
+F:\Projects\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.exe
+F:\Projects\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.pdb
+F:\Projects\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.exe
+F:\Projects\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.pdb
+F:\Projects\SIS\Projects\SIS\SIS\Sis\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.admin_panel.resources
+F:\Projects\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Course.resources
+F:\Projects\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_view.resources
+F:\Projects\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Home.resources
+F:\Projects\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Login.resources
+F:\Projects\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Properties.Resources.resources
+F:\Projects\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_add_report.resources
+F:\Projects\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.csproj.GenerateResource.Cache
+F:\Projects\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.course_update_delete.resources
+F:\Projects\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_fee_pay.resources
+F:\Projects\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.F_Home.resources
+F:\Projects\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.F_student_marks.resources
+F:\Projects\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Std_add_print.resources
+F:\Projects\SIS\Projects\SIS\SIS\Sis\bin\Debug\Student_Managment_DB.mdf
+F:\Projects\SIS\Projects\SIS\SIS\Sis\bin\Debug\Student_Managment_DB_log.ldf
+F:\Projects\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Design.resources
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.exe.config
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.exe
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.pdb
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.exe
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.pdb
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.admin_panel.resources
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Course.resources
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.course_update_delete.resources
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Design.resources
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.F_Home.resources
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.F_student_marks.resources
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Std_add_print.resources
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_view.resources
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Home.resources
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Login.resources
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Properties.Resources.resources
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_add_report.resources
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_fee_pay.resources
+F:\Projects\SIS V0.2\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.csproj.GenerateResource.Cache
+F:\Projects\SIS\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.exe.config
+F:\Projects\SIS\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.exe
+F:\Projects\SIS\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.pdb
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.exe.config
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Student_Managment_DB.mdf
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Student_Managment_DB_log.ldf
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\CrystalReport1.rpt
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\MarkShit.rpt
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\std_add_conf.rpt
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\CrystalReport1.cs
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\MarkShit.cs
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\std_add_conf.cs
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Program.cs
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.exe.manifest
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.application
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.exe
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.pdb
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.admin_panel.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Course.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.course_update_delete.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.C_Home.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Design.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Account.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.F_Home.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.F_student_marks.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.F_stud_info.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.help.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Std_add_print.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_view.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Home.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Login.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Properties.Resources.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_add_report.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_add_update.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_exam.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_fee_pay.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_mark_report.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Tables_details.resources
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.csproj.GenerateResource.Cache
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.TrustInfo.xml
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.exe.manifest
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.application
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.exe
+F:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.pdb
+C:\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.exe.config
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.exe
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.pdb
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\ResolveAssemblyReference.cache
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.admin_panel.resources
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Course.resources
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.course_update_delete.resources
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.C_Home.resources
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Account.resources
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.F_Home.resources
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.F_student_marks.resources
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.F_stud_info.resources
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.help.resources
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Home.resources
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Login.resources
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Properties.Resources.resources
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_add_report.resources
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_add_update.resources
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_exam.resources
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_fee_pay.resources
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_mark_report.resources
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Tables_details.resources
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.csproj.GenerateResource.Cache
+C:\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Student_Managment_DB.mdf
+C:\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Student_Managment_DB_log.ldf
+C:\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\CrystalReport1.rpt
+C:\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\MarkShit.rpt
+C:\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\std_add_conf.rpt
+C:\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\CrystalReport1.cs
+C:\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\MarkShit.cs
+C:\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\std_add_conf.cs
+C:\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Program.cs
+C:\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.exe.manifest
+C:\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.application
+C:\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.exe
+C:\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.pdb
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.TrustInfo.xml
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.exe.manifest
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.application
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Std_fee_print.resources
+C:\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_add.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.exe.config
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.exe
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.pdb
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Student_Managment_DB.mdf
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Student_Managment_DB_log.ldf
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\CrystalReport1.rpt
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\MarkShit.rpt
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\std_add_conf.rpt
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\CrystalReport1.cs
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\MarkShit.cs
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\std_add_conf.cs
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Program.cs
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.exe.manifest
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.application
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.exe
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.pdb
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.admin_panel.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Course.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.course_update_delete.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.C_Home.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Account.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.F_Home.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.F_student_marks.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.F_stud_info.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.help.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Std_fee_print.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_add.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Home.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Login.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Properties.Resources.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_add_report.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_add_update.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_exam.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_fee_pay.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_mark_report.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Tables_details.resources
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.csproj.GenerateResource.Cache
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.TrustInfo.xml
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.exe.manifest
+E:\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.application
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.exe.config
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.exe
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\ResolveAssemblyReference.cache
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.admin_panel.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Course.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.course_update_delete.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.C_Home.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Account.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.F_Home.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.F_student_marks.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.F_stud_info.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.help.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Std_fee_print.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_add.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Home.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Login.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Properties.Resources.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_add_report.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_add_update.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_exam.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_fee_pay.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.stud_mark_report.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.Tables_details.resources
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.csproj.GenerateResource.Cache
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Student_Managment_DB.mdf
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Student_Managment_DB_log.ldf
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\CrystalReport1.rpt
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\MarkShit.rpt
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\std_add_conf.rpt
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\CrystalReport1.cs
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\MarkShit.cs
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\std_add_conf.cs
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Program.cs
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.exe.manifest
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.application
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.exe
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\bin\Debug\Sis.pdb
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.TrustInfo.xml
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.exe.manifest
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.application
+E:\College\BCA\BCA\SEM 5\CD - Project\Source-Code\Projects\SIS\SIS\Projects\SIS\SIS\Sis\obj\Debug\Sis.pdb
